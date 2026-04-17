@@ -420,8 +420,8 @@ img { max-width: 100%; height: auto; display: block; }
 
 .tech-rings {
   position: relative;
-  width: 280px;
-  height: 280px;
+  width: 340px;
+  height: 340px;
 }
 
 .ring {
@@ -449,10 +449,10 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 .home__img {
-  width: 220px;
-  height: 220px;
+  width: 240px;
+  height: 320px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 1.5rem;
   border: 3px solid var(--clr-cyan);
   box-shadow: 0 0 40px rgba(0, 212, 255, 0.3), 0 0 80px rgba(0, 212, 255, 0.1);
 }
@@ -531,8 +531,8 @@ img { max-width: 100%; height: auto; display: block; }
 
 .about__img-wrapper {
   position: relative;
-  width: 260px;
-  height: 260px;
+  width: 280px;
+  height: 360px;
   justify-self: center;
 }
 
